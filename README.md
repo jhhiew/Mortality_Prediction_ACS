@@ -17,3 +17,6 @@ i)   Highest AUC and Sensitivity when predicting both STEMI and NSTEMI mortality
 ii)  Best performance in making correct predictions on mortality cases for high-risk patients <br> 
 iii) Achieved a statistically significant performance
 ![image](https://user-images.githubusercontent.com/101043843/159211702-a3cc55a4-0392-4719-a383-825011df9b90.png)
+![image](https://user-images.githubusercontent.com/101043843/159277760-cba2ea24-aee9-4bf0-b2d2-85c0c0665b66.png)
+![image](https://user-images.githubusercontent.com/101043843/159277818-801131d2-86c9-4e8a-aa62-e719dd0e447c.png)
+
